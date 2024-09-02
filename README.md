@@ -23,14 +23,14 @@
 
 <!-- GitHub Stats and Contribution Graph with Consistent Theme -->
 <div align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px; font-family: 'Courier New', monospace; color: #fff;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbeeredd04&show_icons=true&theme=dark&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sbeeredd04&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="100%" />
 
-  <img src="https://streak-stats.demolab.com?user=sbeeredd04&theme=dark&ring=00ffff&fire=1db954&currStreakLabel=ffffff&background=000000" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=sbeeredd04&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&background=000000" alt="GitHub Streak" width="100%" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbeeredd04&bg_color=000000&line=00ffff&point=1db954&title_color=1db954&color=ffffff" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbeeredd04&bg_color=000000&line=ff0000&point=1db954&title_color=1db954&color=ffffff" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -111,13 +111,11 @@
 
 ---
 
-## GitHub Trophies\
-![](https://github-profile-trophy.vercel.app/?username=sbeeredd04&theme=dark&no-frame=true&no-bg=false&margin-w=4&title_color=00ffff&icon_color=1db954)
-
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sbeeredd04&theme=dark&no-frame=true&no-bg=false&margin-w=4&title_color=ff0000&icon_color=1db954)
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 ---
 
