@@ -1,5 +1,5 @@
 <!-- Full-width Aesthetic Background GIF -->
-<div align="center" style="background-image: url('https://media.giphy.com/media/2SYqgPxMm2kbVe3y02/giphy.gif'); background-size: cover; padding: 20px;">
+<div align="center" style="assets/images/black-minimalist-art-with-subtle-lighting-1242066272376721478.jpeg'); background-size: cover; padding: 20px;">
 
 <!-- Name in Techy Pixelated Font -->
 <h1 align="center" style="font-family: 'Courier New', monospace; color: #1db954; background-color: rgba(0, 0, 0, 0.8); padding: 10px;">Sri Ujjwal Reddy</h1>
@@ -8,6 +8,11 @@
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #00ffff; background-color: rgba(33, 33, 33, 0.8); padding: 5px; display: inline-block;">
   Software Developer
 </h3>
+
+<!-- Full-width Aesthetic Background GIF -->
+<div align="center">
+  <img src="assets/gifs/PTW9.gif" alt="Aesthetic GIF" width="100%" />
+</div>
 
 <!-- Social Links -->
 <p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 10px;">
@@ -28,8 +33,16 @@
 
 <!-- GitHub Stats and Contribution Graph with Consistent Theme -->
 <p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbeeredd04&show_icons=true&theme=dark&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sbeeredd04&theme=dark&ring=00ffff&fire=1db954&currStreakLabel=ffffff&background=000000" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sbeeredd04&show_icons=true&theme=dark&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="100%" />
+</p>
+
+<p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
+  <img src="https://streak-stats.demolab.com?user=sbeeredd04&theme=dark&ring=00ffff&fire=1db954&currStreakLabel=ffffff&background=000000" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sbeeredd04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"
+    alt = "GitHub Top Languages" width = "100%" />
 </p>
 
 <!-- Activity Graph -->
@@ -112,11 +125,6 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 ---
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sbeeredd04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sbeeredd04&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbeeredd04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sbeeredd04&theme=dark&no-frame=true&no-bg=false&margin-w=4&title_color=00ffff&icon_color=1db954)
