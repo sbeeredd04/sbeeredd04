@@ -1,54 +1,47 @@
-<!-- Full-width Aesthetic Background GIF -->
-<div align="center" style="assets/images/black-minimalist-art-with-subtle-lighting-1242066272376721478.jpeg'); background-size: cover; padding: 20px;">
+<!-- Full-width Aesthetic Background -->
+<div align="center" style="background-color: #000; background-image: url('assets/images/black-minimalist-art-with-subtle-lighting-1242066272376721478.jpeg'); background-size: cover; padding: 20px; font-family: 'Courier New', monospace; color: #fff;">
 
-<!-- Name in Techy Pixelated Font -->
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #1db954; background-color: rgba(0, 0, 0, 0.8); padding: 10px;">Sri Ujjwal Reddy</h1>
+  <!-- Name in Techy Pixelated Font -->
+  <h1 align="center" style="color: #1db954; background-color: rgba(0, 0, 0, 0.8); padding: 10px;">Sri Ujjwal Reddy</h1>
 
-<!-- Subheading in a Pixelated Style -->
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #00ffff; background-color: rgba(33, 33, 33, 0.8); padding: 5px; display: inline-block;">
-  Software Developer
-</h3>
+  <!-- Subheading in a Pixelated Style -->
+  <h3 align="center" style="color: #00ffff; background-color: rgba(33, 33, 33, 0.8); padding: 5px; display: inline-block;">
+    Software Developer
+  </h3>
 
-<!-- Full-width Aesthetic Background GIF -->
-<div align="center">
-  <img src="assets/gifs/PTW9.gif" alt="Aesthetic GIF" width="100%" />
-</div>
+  <!-- Full-width Aesthetic GIF -->
+  <div align="center">
+    <img src="assets/gifs/PTW9.gif" alt="Aesthetic GIF" width="100%" />
+  </div>
 
-<!-- Social Links -->
-<p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 10px;">
-  <a href="mailto:srisubspace@gmail.com">
-    <img height="32" alt="Mail" src="assets/svg/envelope-solid.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/sri-ujjwal-reddy-8a52b42b9/">
-    <img height="32" alt="LinkedIn" src="assets/svg/linkedin-in-brands-solid.svg" />
-  </a>
-  <a href="https://www.instagram.com/b.sriujjwal/">
-    <img height="32" alt="Instagram" src="assets/svg/instagram-brands-solid.svg" />
-  </a>
-</p>
+  <!-- Social Links -->
+  <p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 10px;">
+    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ace_vortx) 
+    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.sriujjwal) 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri%20Ujjwal%20Reddy)
+  </p>
 
 </div>
 
 ---
 
 <!-- GitHub Stats and Contribution Graph with Consistent Theme -->
-<p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
+<div align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px; font-family: 'Courier New', monospace; color: #fff;">
   <img src="https://github-readme-stats.vercel.app/api?username=sbeeredd04&show_icons=true&theme=dark&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="100%" />
-</p>
+</div>
 
-<p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
+<div align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
   <img src="https://streak-stats.demolab.com?user=sbeeredd04&theme=dark&ring=00ffff&fire=1db954&currStreakLabel=ffffff&background=000000" alt="GitHub Streak" width="100%" />
-</p>
+</div>
 
-<p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sbeeredd04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"
-    alt = "GitHub Top Languages" width = "100%" />
-</p>
+<div align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbeeredd04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&text_color=ffffff&bg_color=000000" alt="GitHub Top Languages" width="100%" />
+</div>
 
 <!-- Activity Graph -->
-<p align="center">
+<div align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbeeredd04&bg_color=000000&line=00ffff&point=1db954&title_color=1db954&color=ffffff" alt="GitHub Activity Graph" />
-</p>
+</div>
 
 ---
 
