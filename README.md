@@ -2,7 +2,7 @@
 <div align="center" style="background-color: #000; background-image: url('assets/images/black-minimalist-art-with-subtle-lighting-1242066272376721478.jpeg'); background-size: cover; padding: 20px; font-family: 'Courier New', monospace; color: #fff;">
 
   <!-- Name in Techy Pixelated Font -->
-  <h1 align="center" style="color: #1db954; background-color: rgba(0, 0, 0, 0.8); padding: 10px;">Sri Ujjwal Reddy</h1>
+  <h1 align="center" font-size = "40px" style="color: #1db954; background-color: rgba(0, 0, 0, 0.8); padding: 10px;">Sri Ujjwal Reddy</h1>
 
   <!-- Subheading in a Pixelated Style -->
   <h3 align="center" style="color: #00ffff; background-color: rgba(33, 33, 33, 0.8); padding: 5px; display: inline-block;">
@@ -13,15 +13,11 @@
   <div align="center">
     <img src="assets/gifs/PTW9.gif" alt="Aesthetic GIF" width="100%" />
   </div>
-
-  <!-- Social Links -->
-  <p align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 10px;">
-    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ace_vortx) 
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.sriujjwal) 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri%20Ujjwal%20Reddy)
-  </p>
-
 </div>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ace_vortx) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.sriujjwal) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri%20Ujjwal%20Reddy)
 
 ---
 
@@ -35,7 +31,7 @@
 </div>
 
 <div align="center" style="background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbeeredd04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&text_color=ffffff&bg_color=000000" alt="GitHub Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbeeredd04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&text_color=ffffff&bg_color=000000" alt="GitHub Top Languages" width="100%" height="50px"/>
 </div>
 
 <!-- Activity Graph -->
@@ -46,18 +42,19 @@
 ---
 
 ## 💫 About Me:
-- <img src="assets/svg/rocket-solid.svg" width="20"/> Developing a web-based data analysis tool to enhance research productivity and an emotion-based song recommendation bot using emotional AI and natural language processing.
-- <img src="assets/svg/osi-brands-solid.svg" width="20"/> Working on open-source projects involving machine learning, computer vision, or innovative solutions in fintech and AI that can drive real-world impact.
-- <img src="assets/svg/chalkboard-solid.svg" width="20"/> Improving my knowledge and skills in Golang and Kubernetes for deploying scalable applications and enhancing my understanding of cloud-based machine learning deployments.
-- <img src="assets/svg/lightbulb-regular.svg" width="20"/> Exploring advanced techniques in deep learning and reinforcement learning, and investigating the use of AI in enhancing cybersecurity measures.
-- <img src="assets/svg/earth-americas-solid.svg" width="20"/> Developing efficient algorithms for large-scale data analysis, building innovative solutions using Python and JavaScript frameworks, and sharing experiences from hackathons and building award-winning projects.
-- <img src="assets/svg/mug-hot-solid.svg" width="20"/> Often wakes up at 3 am with a eureka moment to solve coding issues and enjoys creating fun, silly Python scripts to automate mundane tasks.
+- Developing a web-based data analysis tool to enhance research productivity and an emotion-based song recommendation bot using emotional AI and natural language processing.
+- Working on open-source projects involving machine learning, computer vision, or innovative solutions in fintech and AI that can drive real-world impact.
+-  Improving my knowledge and skills in Golang and Kubernetes for deploying scalable applications and enhancing my understanding of cloud-based machine learning deployments.
+-  Exploring advanced techniques in deep learning and reinforcement learning, and investigating the use of AI in enhancing cybersecurity measures.
+-  Developing efficient algorithms for large-scale data analysis, building innovative solutions using Python and JavaScript frameworks, and sharing experiences from hackathons and building award-winning projects.
+- Often wakes up at 3 am with a eureka moment to solve coding issues and enjoys creating fun, silly Python scripts to automate mundane tasks.
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
-**Programming Languages:**
+## **Programming Languages:**
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -69,7 +66,8 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries:**
+## **Frameworks & Libraries:**
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
@@ -89,7 +87,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 
-**Software Tools & Environments:**
+## **Software Tools & Environments:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
@@ -110,7 +109,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
 
-**Design & UX Tools:**
+## **Design & UX Tools:**
+
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
