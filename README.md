@@ -2,7 +2,7 @@
 <div align="center" style="background-color: #000; background-image: url('assets/images/black-minimalist-art-with-subtle-lighting-1242066272376721478.jpeg'); background-size: cover; padding: 20px; font-family: 'Courier New', monospace; color: #fff;">
 
   <!-- Name in Techy Pixelated Font -->
-  <h1 align="center" style="font-size: 80px; color: #1db954; background-color: rgba(0, 0, 0, 0.8); padding: 10px;">Sri Ujjwal Reddy</h1>
+  <h1 align="center" style="font-size: 80px; color: #1db954; background-color: rgba(0, 0, 0, 0.8); padding: 10px;">Sri Ujwal Reddy</h1>
 
   <!-- Subheading in a Pixelated Style -->
   <h3 align="center" style="font-size: 40px; color: #00ffff; background-color: rgba(33, 33, 33, 0.8); padding: 5px; display: inline-block;">
